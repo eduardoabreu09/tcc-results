@@ -1,0 +1,15 @@
+Plataforma,Métrica,UFC Hub,SIGAA,UFC Notícias,Unidade
+Desktop,TTFB,63.57,549.80,428.50, ms
+Desktop,FCP,358.54,1298.60,1040.96, ms
+Desktop,TBT,0.00,0.00,2.40, ms
+Desktop,LCP,550.67,1749.65,1803.76, ms
+Desktop,CLS,0.0036,0.0018,0.0205,
+Desktop,SI,418.15,2038.33,1146.31, ms
+Desktop,Total Transfer Size,554.26,533.91,3919.05, KB
+Mobile,TTFB,63.10,547.10,437.00, ms
+Mobile,FCP,1111.35,4031.13,2488.99, ms
+Mobile,TBT,4.05,10.65,155.75, ms
+Mobile,LCP,2377.08,5933.71,3020.27, ms
+Mobile,CLS,0.0000,0.0010,0.0000,
+Mobile,SI,1130.07,6057.94,2516.17, ms
+Mobile,Total Transfer Size,442.14,534.07,3917.75, KB

@@ -1,0 +1,9 @@
+Plataforma,Categoria,Média,Mediana,Desvio Padrão,Mínimo,Máximo,Unidade
+Desktop,performance,81.00,83.00,3.24,77.00,84.00,%
+Desktop,accessibility,86.00,86.00,0.00,86.00,86.00,%
+Desktop,best-practices,77.00,77.00,0.00,77.00,77.00,%
+Desktop,seo,42.00,42.00,0.00,42.00,42.00,%
+Mobile,performance,60.20,60.00,1.79,58.00,63.00,%
+Mobile,accessibility,86.00,86.00,0.00,86.00,86.00,%
+Mobile,best-practices,77.00,77.00,0.00,77.00,77.00,%
+Mobile,seo,42.00,42.00,0.00,42.00,42.00,%

@@ -1,0 +1,15 @@
+Plataforma,Métrica,Média,Mediana,Desvio Padrão,Mínimo,Máximo,Unidade
+Desktop,TTFB,67.00,62.00,10.49,58.00,84.00,ms
+Desktop,FCP,371.36,371.68,0.95,369.84,372.39,ms
+Desktop,TBT,0.00,0.00,0.00,0.00,0.00,ms
+Desktop,LCP,434.96,442.68,17.66,403.39,443.69,ms
+Desktop,CLS,0.0000,0.0000,0.0000,0.0000,0.0000,
+Desktop,SI,390.28,381.83,24.42,371.69,430.62,ms
+Desktop,Total Transfer Size,633.72,633.63,0.17,633.57,633.96,KB
+Mobile,TTFB,64.40,65.00,1.52,62.00,66.00,ms
+Mobile,FCP,1155.06,1157.17,5.07,1146.82,1159.70,ms
+Mobile,TBT,3.50,3.50,1.77,1.50,5.50,ms
+Mobile,LCP,1755.46,1728.77,67.41,1720.17,1875.84,ms
+Mobile,CLS,0.0000,0.0000,0.0000,0.0000,0.0000,
+Mobile,SI,1172.92,1157.77,35.01,1151.00,1234.56,ms
+Mobile,Total Transfer Size,548.28,548.23,0.18,548.16,548.59,KB
